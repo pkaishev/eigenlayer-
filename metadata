@@ -1,7 +1,7 @@
 operator:
   address: 0x0648A5FA5Ec468032F0222AB944dFc1637C3C429
   earnings_receiver_address: 0x0648A5FA5Ec468032F0222AB944dFc1637C3C429
-  delegation_approver_address: "0x0000000000000000000000000000000000000000"
+  delegation_approver_address: 0x0000000000000000000000000000000000000000
   staker_opt_out_window_blocks: 0
   metadata_url: URL_RAW_GITHUB
 el_delegation_manager_address: 0x1b7b8F6b258f95Cf9596EabB9aa18B62940Eb0a8
